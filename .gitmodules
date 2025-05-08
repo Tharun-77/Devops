@@ -1,0 +1,6 @@
+[submodule "ECS-fargate-ci-cd-deployment"]
+	path = ECS-fargate-ci-cd-deployment
+	url = https://github.com/Tharun-77/ECS-fargate-ci-cd-deployment.git
+[submodule "GitHub-Actions-Project"]
+	path = GitHub-Actions-Project
+	url = https://github.com/Tharun-77/GitHub-Actions-Project.git
